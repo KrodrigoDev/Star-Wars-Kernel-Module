@@ -32,7 +32,7 @@ Este é um módulo do kernel Linux que implementa uma funcionalidade simples com
 
 Aqui estão algumas imagens do módulo em execução:
 
-![Imagem 1](caminho/para/imagem1.png)
+![Imagem 1]([caminho/para/imagem1.png](https://github.com/KrodrigoDev/Star-Wars-Kernel-Module/blob/main/Em%20execu%C3%A7%C3%A3o/Modulo%20em%20execu%C3%A7%C3%A3o%201%20(2).png))
 ![Imagem 2](caminho/para/imagem2.png)
 ## Licença
 
