@@ -30,7 +30,7 @@ Este é um módulo do kernel Linux que implementa uma funcionalidade simples com
 
 ## Licença
 
-Este módulo é licenciado sob a Licença Pública Geral GNU (GPL).
+Este módulo é licenciado sob a Licença GNU General Public License v3.0.
 
 ## Autor
 
