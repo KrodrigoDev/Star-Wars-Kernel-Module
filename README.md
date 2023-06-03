@@ -27,7 +27,13 @@ Este é um módulo do kernel Linux que implementa uma funcionalidade simples com
    ```shell
    sudo rmmod modulo
    ```
+   
+## Imagens
 
+Aqui estão algumas imagens do módulo em execução:
+
+![Imagem 1](caminho/para/imagem1.png)
+![Imagem 2](caminho/para/imagem2.png)
 ## Licença
 
 Este módulo é licenciado sob a Licença GNU General Public License v3.0.
