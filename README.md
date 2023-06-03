@@ -48,8 +48,5 @@ Este módulo é licenciado sob a Licença GNU General Public License v3.0.
 
 Este módulo foi desenvolvido por Kauã Rodrigo de Lima Barbosa em sala de aula, com a ajuda do professor. [Aqui](https://github.com/quindai) está o perfil do professor no GitHub.
 
-## Descrição
-
-O módulo do kernel Linux "K_RODRIGO_DEV" é um pequeno exemplo que implementa um arquivo `/proc` personalizado. Ele exibe uma sequência de números incrementais quando o arquivo é lido. O módulo foi desenvolvido com o tema Star Wars e serve como uma demonstração simples do uso de arquivos `/proc` no kernel Linux.
 
 Que a Força esteja com você, jovem programador!
