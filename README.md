@@ -33,7 +33,7 @@ Este é um módulo do kernel Linux que implementa uma funcionalidade simples com
 Aqui estão algumas imagens do módulo em execução:
 
 <p align="center">
-  <img src="https://github.com/KrodrigoDev/Star-Wars-Kernel-Module/blob/main/Em%20execu%C3%A7%C3%A3o/Modulo%20em%20execu%C3%A7%C3%A3o%201%20(2).png?raw=true" alt="Imagem 1" width="500px">
+  <img src="https://github.com/KrodrigoDev/Star-Wars-Kernel-Module/blob/main/Em%20execu%C3%A7%C3%A3o/em%20execu%C3%A7%C3%A3o.png?raw=true" alt="Imagem 1" width="500px">
 </p>
 
 <p align="center">
