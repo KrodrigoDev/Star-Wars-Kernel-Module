@@ -47,6 +47,3 @@ Este módulo é licenciado sob a Licença GNU General Public License v3.0.
 ## Autor
 
 Este módulo foi desenvolvido por Kauã Rodrigo de Lima Barbosa em sala de aula, com a ajuda do professor. [Aqui](https://github.com/quindai) está o perfil do professor no GitHub.
-
-
-Que a Força esteja com você, jovem programador!
