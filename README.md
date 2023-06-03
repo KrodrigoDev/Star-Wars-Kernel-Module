@@ -1,6 +1,6 @@
 # Star Wars Kernel Module
 
-Este é um módulo do kernel Linux que implementa uma funcionalidade simples com tema Star Wars. Ele cria um arquivo `/proc` chamado "K_RODRIGO_DEV" que exibe uma sequência de números.
+Este é um módulo do kernel Linux que implementa uma funcionalidade simples com tema Star Wars. Ele cria um arquivo `/proc` chamado "K_RODRIGO_DEV" que exibe uma sequência de números representando os episódios dos filmes.
 
 ## Como usar
 
