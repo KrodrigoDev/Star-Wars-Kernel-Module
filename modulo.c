@@ -41,7 +41,44 @@ static void my_seq_stop(struct seq_file *s, void *v)
 static int proc_show(struct seq_file *s, void *v)
 {
     loff_t *spos = (loff_t *)v;
-    seq_printf(s, "%Ld\n", *spos);
+    int episode_number = (int)(*spos);
+    const char *episode_name;
+
+    switch (episode_number)
+    {
+        case 0:
+            episode_name = "Episódio I: A Ameaça Fantasma";
+            break;
+        case 1:
+            episode_name = "Episódio II: Ataque dos Clones";
+            break;
+        case 2:
+            episode_name = "Episódio III: A Vingança dos Sith";
+            break;
+        case 3:
+            episode_name = "Episódio IV: Uma Nova Esperança";
+            break;
+        case 4:
+            episode_name = "Episódio V: O Império Contra-Ataca";
+            break;
+        case 5:
+            episode_name = "Episódio VI: O Retorno de Jedi";
+            break;
+        case 6:
+            episode_name = "Episódio VII: O Despertar da Força";
+            break;
+        case 7:
+            episode_name = "Episódio VIII: Os Últimos Jedi";
+            break;
+        case 8:
+            episode_name = "Episódio IX: A Ascensão Skywalker";
+            break;
+        default:
+            episode_name = "Episódio Desconhecido";
+            break;
+    }
+
+    seq_printf(s, "%s\n", episode_name);
     return 0;
 }
 
@@ -108,4 +145,3 @@ module_exit(proc_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("KAUÃ RODRIGO DE LIMA BARBOSA");
 MODULE_DESCRIPTION("Módulo do kernel Linux com tema Star Wars");
-
